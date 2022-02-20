@@ -12,4 +12,5 @@
 2. [Sessions](./02.Sessions.md)
 3. [Menus](./03.Menus.md)
 4. [SMS Parsers](./04.Parsers.md)
+5. [Build A Sample App - Setup](./05.Build-Sample-App-Setup.md)
 
