@@ -18,4 +18,6 @@ Official docs for [AutoUssd](https://autoussd.com), which is a powerful USSD aut
    1. [Build A Sample App - Android (Kotlin)](./07.Build-Sample-App-Android-Kotlin.md)
    2. [Build A Sample App - Android (Java)](./07.Build-Sample-App-Android-Java.md)
    3. [Build A Sample App - Flutter](./07.Build-Sample-App-Flutter.md)
+8. [Interpreting the SDK result](./08.Interpreting-SDK-Result.md)
+9. [Android Permissions](09.Android-Permissions.md)
 
