@@ -1,6 +1,6 @@
 # AutoUssd Docs
 
-![](https://img.shields.io/badge/version-3.0.2-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/min%20flutter%20version-2.5.3-orange)
+![](https://img.shields.io/badge/version-3.1.0-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/min%20flutter%20version-2.5.3-orange)
 
 ![](./assets/logo-seo.png)
 
