@@ -1,6 +1,6 @@
 # AutoUssd Docs
 
-![](https://img.shields.io/badge/version-3.1.0-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/min%20flutter%20version-2.5.3-orange)
+![](https://img.shields.io/badge/version-3.2.0-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/min%20flutter%20version-2.5.3-orange)
 
 ![](./assets/logo-seo.png)
 
@@ -17,8 +17,7 @@ Official docs for [AutoUssd](https://autoussd.com), which is a powerful USSD aut
 5. [Build A Sample App - Setup](./05.Build-Sample-App-Setup.md)
 6. [Build A Sample App - Platform Selection](./06.Build-Sample-App-Platforms.md)
 7. Build A Sample App - Implementation
-   1. [Build A Sample App - Android (Kotlin)](./07.Build-Sample-App-Android-Kotlin.md)
-   2. [Build A Sample App - Android (Java)](./07.Build-Sample-App-Android-Java.md)
+   1. [Build A Sample App - Android](./07.Build-Sample-App-Android.md)
    3. [Build A Sample App - Flutter](./07.Build-Sample-App-Flutter.md)
 8. [Interpreting the SDK result](./08.Interpreting-SDK-Result.md)
 9. [Android Permissions](09.Android-Permissions.md)
