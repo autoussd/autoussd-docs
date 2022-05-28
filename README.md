@@ -14,7 +14,7 @@ Official docs for [AutoUssd](https://autoussd.com), which is a powerful USSD aut
 2. [Sessions](./02.Sessions.md)
 3. [Menus](./03.Menus.md)
 4. [SMS Parsers](./04.Parsers.md)
-5. [Branches](./05.Branches.md)
+5. [Branches - **NEW**](./05.Branches.md)
 6. [Build A Sample App - Setup](./06.Build-Sample-App-Setup.md)
 7. [Build A Sample App - Platform Selection](./07.Build-Sample-App-Platforms.md)
 8. Build A Sample App - Implementation
