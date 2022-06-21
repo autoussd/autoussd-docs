@@ -22,4 +22,5 @@
    3. [Build A Sample App - Flutter](./08.Build-Sample-App-Flutter.md)
 9. [Interpreting the SDK result](./09.Interpreting-SDK-Result.md)
 10. [Android Permissions](10.Android-Permissions.md)
+11. [Class Reference](11.Class-Reference.md)
 
