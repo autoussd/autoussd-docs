@@ -4,7 +4,7 @@
 
 ![](./assets/logo-seo.png)
 
-[AutoUssd](https://autoussd.com) is a powerful USSD automation SDK for **Android** which allows you to build apps on top of USSD services.
+[AutoUssd](https://autoussd.com) is a powerful USSD automation SDK for **Android** and **Flutter (Android)** which allows you to build apps on top of USSD services.
 
 
 
@@ -14,7 +14,7 @@
 2. [Sessions](./02.Sessions.md)
 3. [Menus](./03.Menus.md)
 4. [SMS Parsers](./04.Parsers.md)
-5. [Branches - **NEW**](./05.Branches.md)
+5. [Branches - **New (v4)**](./05.Branches.md)
 6. [Build A Sample App - Setup](./06.Build-Sample-App-Setup.md)
 7. [Build A Sample App - Platform Selection](./07.Build-Sample-App-Platforms.md)
 8. Build A Sample App - Implementation
