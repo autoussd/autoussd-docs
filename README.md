@@ -23,4 +23,5 @@
 9. [Interpreting the SDK result](./09.Interpreting-SDK-Result.md)
 10. [Android Permissions](10.Android-Permissions.md)
 11. [Class Reference](11.Class-Reference.md)
+12. [Changelog](12.Changelog.md)
 
