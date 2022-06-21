@@ -1,10 +1,10 @@
 # AutoUssd Documentation
 
-![](https://img.shields.io/badge/version-4.0.0-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/min%20flutter%20version-2.5.3-orange)
+![](https://img.shields.io/badge/version-4.0.0-blue) ![](https://img.shields.io/badge/platform-android%20|%20flutter--android-brightgreen) ![](https://img.shields.io/badge/min--sdk--version-26%20%28Android%208%29-brightgreen) ![](https://img.shields.io/badge/gradle-7.1.3-brightgreen) ![](https://img.shields.io/badge/kotlin--gradle--plugin-1.6.21-brightgreen) ![](https://img.shields.io/badge/min--flutter--version-2.5.3-blue)
 
 ![](./assets/logo-seo.png)
 
-Official docs for [AutoUssd](https://autoussd.com), which is a powerful USSD automation SDK for Android which allows you to build Android applications on top of USSD services.
+[AutoUssd](https://autoussd.com) is a powerful USSD automation SDK for **Android** which allows you to build apps on top of USSD services.
 
 
 
